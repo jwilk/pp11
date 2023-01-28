@@ -1,0 +1,64 @@
+<svg width="105mm" height="148mm" version="1.1" viewBox="0 0 396.85 559.37" xmlns="http://www.w3.org/2000/svg">
+
+<!--
+
+This is to be printed on top of the original form:
+https://www.poczta-polska.pl/hermes/uploads/2013/10/wz%C3%B3r-11_2.pdf
+
+
+-->
+
+<style>
+
+#user-input text {
+    fill: #00c;
+    font-size: 14pt;
+    font-family: Cabin;
+    font-weight: 500;
+}
+#opt-delivery-ack,
+#opt-receipt-ack,
+#opt-priority,
+#opt-size-S,
+#opt-size-M,
+#opt-size-L {
+    display: none;
+}
+.opt-delivery-ack #opt-delivery-ack,
+.opt-receipt-ack #opt-receipt-ack,
+.opt-priority #opt-priority,
+.opt-size-S #opt-size-S,
+.opt-size-M #opt-size-M,
+.opt-size-L #opt-size-L {
+    display: block;
+}
+</style>
+
+<g id="user-input" class="opt-delivery-ack opt-size-S opt-priority">
+
+<text id="sender-1" x="94" y="138">Jan Nowak</text>
+<text id="sender-2" x="94" y="162">ul. Lipowa 7 m 3</text>
+<text id="sender-3" x="94" y="186"></text>
+<text id="sender-code" x="95" y="210">30-304</text>
+<text id="sender-city" x="184" y="210">KRAKÓW</text>
+
+<text id="recipient-1" x="94" y="250">Janina Nowak</text>
+<text id="recipient-2" x="94" y="274">ul. Cicha 123 m 16</text>
+<text id="recipient-3" x="94" y="298"></text>
+<text id="recipient-code" x="95" y="323">62-200</text>
+<text id="recipient-city" x="184" y="323">GNIEZNO</text>
+
+<text id="opt-delivery-ack" x="26" y="355">✗</text>
+<text id="sms-email" x="95" y="384">657-254-514</text>
+
+<text id="opt-receipt-ack" x="26" y="419">✗</text>
+
+<text id="opt-priority" x="180" y="419">✗</text>
+
+<text id="opt-size-S" x="26" y="446">✗</text>
+<text id="opt-size-M" x="78" y="446">✗</text>
+<text id="opt-size-L" x="131" y="446">✗</text>
+
+</g>
+
+</svg>

@@ -5,7 +5,6 @@
 This is to be printed on top of the original form:
 https://www.poczta-polska.pl/hermes/uploads/2013/10/wz%C3%B3r-11_2.pdf
 
-
 -->
 
 <style>
@@ -32,6 +31,7 @@ https://www.poczta-polska.pl/hermes/uploads/2013/10/wz%C3%B3r-11_2.pdf
 .opt-size-L #opt-size-L {
     display: block;
 }
+
 </style>
 
 <g id="user-input" class="opt-delivery-ack opt-size-S opt-priority">

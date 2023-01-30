@@ -21,6 +21,7 @@ https://www.poczta-polska.pl/hermes/uploads/2013/10/wz%C3%B3r-11_2.pdf
 #opt-size-S,
 #opt-size-M,
 #opt-size-L {
+    visibility: hidden;
     display: none;
 }
 .opt-delivery-ack #opt-delivery-ack,
@@ -29,6 +30,7 @@ https://www.poczta-polska.pl/hermes/uploads/2013/10/wz%C3%B3r-11_2.pdf
 .opt-size-S #opt-size-S,
 .opt-size-M #opt-size-M,
 .opt-size-L #opt-size-L {
+    visibility: visible;
     display: block;
 }
 

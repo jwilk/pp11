@@ -16,6 +16,7 @@ https://www.poczta-polska.pl/hermes/uploads/2013/10/wz%C3%B3r-11_2.pdf
     font-weight: 500;
 }
 #opt-delivery-ack,
+#sms-email,
 #opt-receipt-ack,
 #opt-priority,
 #opt-size-S,
@@ -25,6 +26,7 @@ https://www.poczta-polska.pl/hermes/uploads/2013/10/wz%C3%B3r-11_2.pdf
     display: none;
 }
 .opt-delivery-ack #opt-delivery-ack,
+.opt-delivery-ack #sms-email,
 .opt-receipt-ack #opt-receipt-ack,
 .opt-priority #opt-priority,
 .opt-size-S #opt-size-S,
